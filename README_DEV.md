@@ -1,3 +1,5 @@
+[ARP Allegro Integration – zgodna z nazwą zarejestrowaną w apps.developer.allegro.pl]
+
 Aplikacja integracyjna utrzymywana przez ARP Ideas na potrzeby klienta
 4kraft (https://www.4kraft.com/).
 
